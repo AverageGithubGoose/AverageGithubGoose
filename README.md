@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AverageGithubGoose
+- 👋 Hi, I’m @gabriel.boyle1
 - 👀 I’m interested in cat pictures
-- 🌱 I’m currently learning Swift, and Discord.py
-- 📫 How to reach me: gooseatcfmp@gmail.com, averageinternetgoose on discord, and goosethattweets on twitter (X)
+- 🌱 I’m currently learning Swift, Python and Discord.py
+- 📫 How to reach me: gabriel.boyle1@icloud.com
 - 😄 Pronouns: he/him/his (i/me/myself (if you get this reference, you get my admiration))
 - ⚡ Fun fact: ctlaserdisc stinks
 
